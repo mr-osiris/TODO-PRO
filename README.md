@@ -15,7 +15,7 @@ A feature-rich todo application built with vanilla HTML, CSS, and JavaScript.
 
 #Live Demo
 
-[View Live Demo](https://yourusername.github.io/todo-app)
+[View Live Demo](https://mr-osiris.github.io/TODO-PRO/)
 
 #Technologies Used
 
