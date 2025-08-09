@@ -35,3 +35,5 @@ A feature-rich todo application built with vanilla HTML, CSS, and JavaScript.
 <img width="1813" height="918" alt="Screenshot 2025-07-18 133511" src="https://github.com/user-attachments/assets/018dd557-68aa-40b8-9695-329b51be6bad" />
 <img width="1644" height="911" alt="Screenshot 2025-07-18 133605" src="https://github.com/user-attachments/assets/fe48b73f-3f71-420d-9c57-9f4e7dabc978" />
 
+just checking 
+
