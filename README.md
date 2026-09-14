@@ -37,4 +37,3 @@ A feature-rich todo application built with vanilla HTML, CSS, and JavaScript.
 
 ye to todo pro app hai re baba
 
-kya bol raha hai
